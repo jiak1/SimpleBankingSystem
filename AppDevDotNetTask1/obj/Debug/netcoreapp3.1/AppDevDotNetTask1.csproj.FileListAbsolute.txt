@@ -1,0 +1,13 @@
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.exe
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.deps.json
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.runtimeconfig.json
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.runtimeconfig.dev.json
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.dll
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.pdb
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.csprojAssemblyReference.cache
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.AssemblyInfoInputs.cache
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.AssemblyInfo.cs
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.csproj.CoreCompileInputs.cache
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.dll
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.pdb
+C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.genruntimeconfig.cache
