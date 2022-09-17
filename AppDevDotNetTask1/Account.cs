@@ -6,9 +6,9 @@ namespace AppDevDotNetTask1
 {
     class Account
     {
-        private string firstName, lastName, address, email;
-        private int phone, accountNumber;
-        private double balance;
+        public readonly string firstName, lastName, address, email;
+        public readonly int phone, accountNumber;
+        public readonly double balance;
         private List<Transaction> transactions;
 
         public Account(string firstName, string lastName, string address, string email, int phone, int accountNumber)
