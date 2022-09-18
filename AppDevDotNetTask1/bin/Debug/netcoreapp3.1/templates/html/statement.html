@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='Content-Type' content='text/html charset=UTF-8' />
+    <meta name='viewport' content='width=device-width'>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap" rel="stylesheet">
+    <style>
+        #central-content {
+            background: #cccccc;
+            box-shadow: 0px 15px 55px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 2px;
+            width: 80%;
+            margin-top: 5%;
+            margin-bottom: 5%;
+            max-width: 700px;
+            font-family: 'Source Code Pro', monospace;
+            font-weight: 300;
+			min-width:300px;
+        }
+
+        .h-center {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .copyright-text {
+            font-family: arial;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            text-align: center;
+            width: 80%;
+            color: black;
+            margin-bottom: 15%;
+        }
+
+        .terminal {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: black;
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .terminalHeader {
+            background-color: #2b2b2b;
+            padding: 7px;
+            color: #6b7d7c;
+        }
+
+        .terminalContent {
+            color: white;
+            width: 100%;
+        }
+
+        .tableParent {
+            padding: 5px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        table,
+        tr,
+        td,
+        th {
+            border: 1px solid white;
+        }
+
+        td,
+        th {
+            padding: 15px;
+        }
+
+        td {
+            padding-left: 5%;
+            line-height: 20px;
+        }
+
+        th {
+            font-weight: 500;
+        }
+		ul{
+			padding-left:0px;
+		}
+    </style>
+
+</head>
+
+<body leftmargin='0' marginheight='0' marginwidth='0' offset='0' topmargin='0'>
+	<div style="font-size:0px;line-height:1px;mso-line-height-rule:exactly;display:none;max-width:0px;max-height:0px;opacity:0;overflow:hidden;mso-hide:all;">
+		<!-- Preheader -->
+		Hi [FirstName], We have processed your account statement request. Please find your account statement below: Account No: [AccountNumber], Account Balance: $[Balance], First Name: [FirstName], Last Name: [LastName]
+	</div>
+    <table bgcolor='#e8e8e8' align='center' border='0' cellpadding='0' cellspacing='0' height='100%' width='100%'>
+        <tr>
+            <td valign='top'>
+                <div id='central-content' class='h-center'>
+                    <div class="terminal">
+                        <div class="terminalHeader">
+                            C:\Users\[FirstName]\bank.exe
+                            <span style="float:right">✕</span>
+                        </div>
+                        <div class="tableParent">
+                            <table class="terminalContent">
+                                <tr>
+                                    <th>Account Statement Request</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Please find your account statement below:<br /><br />
+                                        Account No: [AccountNumber]<br />
+                                        Account Balance: $[Balance]<br />
+                                        First Name: [FirstName]<br />
+                                        Last Name: [LastName]<br />
+                                        Address: [Address]<br />
+                                        Phone: [Phone]<br />
+                                        Email: [Email]<br /><br />
+										[Transactions]
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+                <p class='h-center copyright-text'>
+                    Sent by Banking System - Jack Donaldson - 14256034
+                </p>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

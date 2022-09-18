@@ -1,0 +1,17 @@
+Hi [FirstName],
+
+We have processed your account statement request.
+
+Please find your account statement below:
+
+Account No: [AccountNumber]
+Account Balance: $[Balance]
+First Name: [FirstName]
+Last Name: [LastName]
+Address: [Address]
+Phone: [Phone]
+Email: [Email]
+
+[Transactions]
+
+Created By Jack Donaldson (14256034)

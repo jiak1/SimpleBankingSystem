@@ -1,0 +1,9 @@
+First Name|Joe
+Last Name|Blo
+Address|56 Smith Park
+Phone|49999999
+Email|jackdonaldson005@gmail.com
+AccountNo|100003
+Balance|302
+18.09.2022|Deposit|345|345
+19.09.2022|Withdraw|43|302

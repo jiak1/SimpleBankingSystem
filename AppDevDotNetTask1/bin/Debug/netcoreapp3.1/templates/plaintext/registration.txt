@@ -1,0 +1,15 @@
+Hi [FirstName],
+
+Congratulations on creating a brand new account with the banking system software.
+
+Please find your new account details below:
+
+Account No: [AccountNumber]
+Account Balance: $[Balance]
+First Name: [FirstName]
+Last Name: [LastName]
+Address: [Address]
+Phone: [Phone]
+Email: [Email]
+
+Created By Jack Donaldson (14256034)
