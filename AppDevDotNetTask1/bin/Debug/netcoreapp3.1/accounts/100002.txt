@@ -1,0 +1,8 @@
+First Name|Joe
+Last Name|Smith
+Address|13 Smith Street
+Phone|41234567
+Email|jackdonaldson005@gmail.com
+AccountNo|100002
+Balance|234
+19.09.2022|Deposit|234|234

@@ -11,3 +11,16 @@ C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\
 C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.dll
 C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.pdb
 C:\Users\jackd\source\repos\jiak1\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.genruntimeconfig.cache
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.exe
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.deps.json
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.runtimeconfig.json
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.runtimeconfig.dev.json
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.dll
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\bin\Debug\netcoreapp3.1\AppDevDotNetTask1.pdb
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.csprojAssemblyReference.cache
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.AssemblyInfoInputs.cache
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.AssemblyInfo.cs
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.csproj.CoreCompileInputs.cache
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.dll
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.pdb
+F:\Uni\DotNet\AppDevDotNetTask1\AppDevDotNetTask1\obj\Debug\netcoreapp3.1\AppDevDotNetTask1.genruntimeconfig.cache

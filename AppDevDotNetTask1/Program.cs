@@ -6,7 +6,10 @@ namespace AppDevDotNetTask1
     {
         static void Main(string[] args)
         {
-            new BankSystem();
+            Console.SetWindowSize(61, 20);
+            Console.SetBufferSize(61, 2000);
+
+            new LoginSystem().LoginMenu();
         }
 
 
