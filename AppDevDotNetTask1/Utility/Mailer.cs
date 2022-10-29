@@ -23,7 +23,7 @@ namespace AppDevDotNetTask1
             try
             {
                 _mailClient = new SmtpClient("email-smtp.us-east-2.amazonaws.com", 587);
-                _mailClient.Credentials = new NetworkCredential("AKIAU67BVJMN64A77OVV", "BL5y6lG9YQgfEo4QzXNNTSGFzaKuavjYMaGqA5nSyAHk");
+                _mailClient.Credentials = new NetworkCredential("USERNAME", "PASSWORD");
                 _mailClient.EnableSsl = true;
             }
             catch

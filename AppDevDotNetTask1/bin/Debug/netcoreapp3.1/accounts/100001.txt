@@ -4,9 +4,9 @@ Address|UTS Building 11, Sydney
 Phone|123456789
 Email|jackdonaldson005@gmail.com
 AccountNo|100001
-Balance|3512
-18.12.2022|Deposit|456|810
+Balance|3635
 18.12.2022|Withdraw|102|708
 18.12.2022|Deposit|4356|4356
 18.09.2022|Deposit|3456|3456
 18.09.2022|Deposit|56|3512
+29.10.2022|Deposit|123|3635
